@@ -1,5 +1,5 @@
 /**
- * @author: Brandon Nunez
+ * @author: @brando5985
  * DATE: April 10th, 2021
  * HOURS: 8
  * CLASS: CSCIU200-01W
